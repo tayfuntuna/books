@@ -6,5 +6,8 @@ This repo will keep some book resourses to be to used by LLMs
   - quran
   - tawrat
 - Science books
-  - biology course books
+  - biology
+  - chemistry
+  - phsycs
+  - philosophy
 
